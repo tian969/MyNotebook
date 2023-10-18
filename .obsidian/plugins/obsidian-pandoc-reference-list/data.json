@@ -1,0 +1,12 @@
+{
+  "pathToPandoc": "C:\\Program Files\\Pandoc\\pandoc.exe",
+  "tooltipDelay": 400,
+  "zoteroGroups": [],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pathToBibliography": "D:\\DevRepository\\PKU-ICSL-Security\\Introduction\\ref.bib",
+  "hideLinks": true,
+  "enableCiteKeyCompletion": true,
+  "showCitekeyTooltips": true
+}
