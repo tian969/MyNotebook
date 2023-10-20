@@ -2,5 +2,6 @@
   "attachmentFolderPath": "附件",
   "newFileLocation": "current",
   "newLinkFormat": "relative",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true
 }
