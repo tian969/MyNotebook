@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0385116bc6130999",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c7267e0b7ac4546a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人脸抗仿冒/人脸抗仿冒相关论文/CycleGAN介绍.md",
+                "file": "人脸抗仿冒/RNN/序列模型.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人脸抗仿冒/人脸抗仿冒相关论文/CycleGAN介绍.md",
+                "file": "人脸抗仿冒/RNN/序列模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人脸抗仿冒/人脸抗仿冒相关论文/CycleGAN介绍.md",
+                "file": "人脸抗仿冒/RNN/序列模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人脸抗仿冒/人脸抗仿冒相关论文/CycleGAN介绍.md"
+                "file": "人脸抗仿冒/RNN/序列模型.md"
               }
             }
           },
@@ -180,9 +167,19 @@
   },
   "active": "c7267e0b7ac4546a",
   "lastOpenFiles": [
-    "README.md",
-    "人脸抗仿冒/Photos",
+    "Pytorch/DataSet&DataLoader.md",
+    "人脸抗仿冒/RNN/序列模型.md",
+    "人脸抗仿冒/RNN",
     "人脸抗仿冒/人脸抗仿冒相关论文/CycleGAN介绍.md",
+    "人脸抗仿冒/人脸抗仿冒相关论文/人脸攻击类型.md",
+    "人脸抗仿冒/人脸抗仿冒相关论文/基于辅助特征的人脸抗仿冒方案的研究与实现.md",
+    "人脸抗仿冒/人脸抗仿冒相关论文/3DMMFA.md",
+    "Pytorch",
+    "人脸抗仿冒/人脸抗仿冒相关论文/CycleGAN论文.md",
+    "人脸抗仿冒/人脸抗仿冒相关论文/未命名 1.md",
+    "README.md",
+    "人脸抗仿冒/Photos/Pasted image 20231021100612.png",
+    "人脸抗仿冒/Photos",
     "人脸抗仿冒/Photos/Pasted image 20231020225349.png",
     "人脸抗仿冒/人脸抗仿冒相关论文",
     "人脸抗仿冒",
