@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人脸抗仿冒/人脸抗仿冒相关论文/使用辅助监督或者二进制 人脸抗仿冒.md",
+                "file": "人脸抗仿冒/人脸抗仿冒相关论文/使用辅助信息监督的人脸抗仿冒深度网络模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 338.5,
+    "collapsed": true
   },
   "right": {
     "id": "48a05b73ecca0b7f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人脸抗仿冒/人脸抗仿冒相关论文/使用辅助监督或者二进制 人脸抗仿冒.md",
+                "file": "人脸抗仿冒/人脸抗仿冒相关论文/使用辅助信息监督的人脸抗仿冒深度网络模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人脸抗仿冒/人脸抗仿冒相关论文/使用辅助监督或者二进制 人脸抗仿冒.md",
+                "file": "人脸抗仿冒/人脸抗仿冒相关论文/使用辅助信息监督的人脸抗仿冒深度网络模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人脸抗仿冒/人脸抗仿冒相关论文/使用辅助监督或者二进制 人脸抗仿冒.md"
+                "file": "人脸抗仿冒/人脸抗仿冒相关论文/使用辅助信息监督的人脸抗仿冒深度网络模型.md"
               }
             }
           },
@@ -167,13 +168,15 @@
   },
   "active": "c7267e0b7ac4546a",
   "lastOpenFiles": [
+    "Pasted image 20231029214322.png",
+    "人脸抗仿冒/人脸抗仿冒相关论文/基于辅助特征的人脸抗仿冒方案的研究与实现.md",
+    "人脸抗仿冒/人脸抗仿冒相关论文/使用辅助信息监督的人脸抗仿冒深度网络模型.md",
+    "Pasted image 20231029213213.png",
     "Pasted image 20231029200700.png",
     "Pasted image 20231029163921.png",
     "人脸抗仿冒/人脸抗仿冒相关论文/残差网络论文.md",
-    "人脸抗仿冒/人脸抗仿冒相关论文/使用辅助监督或者二进制 人脸抗仿冒.md",
     "人脸抗仿冒/人脸抗仿冒相关论文/CycleGAN论文.md",
     "人脸抗仿冒/人脸抗仿冒相关论文/CycleGAN介绍.md",
-    "人脸抗仿冒/人脸抗仿冒相关论文/基于辅助特征的人脸抗仿冒方案的研究与实现.md",
     "人脸抗仿冒/人脸抗仿冒相关论文/人脸攻击类型.md",
     "Deep_Residual_Learning_for_Image_Recognition.pdf",
     "人脸抗仿冒/人脸抗仿冒相关论文/3DMMFA.md",
