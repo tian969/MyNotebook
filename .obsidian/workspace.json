@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人脸抗仿冒/人脸抗仿冒相关论文/使用辅助信息监督的人脸抗仿冒深度网络模型.md",
+                "file": "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文/Zero and Few-Shot Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "48a05b73ecca0b7f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人脸抗仿冒/人脸抗仿冒相关论文/使用辅助信息监督的人脸抗仿冒深度网络模型.md",
+                "file": "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文/Zero and Few-Shot Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人脸抗仿冒/人脸抗仿冒相关论文/使用辅助信息监督的人脸抗仿冒深度网络模型.md",
+                "file": "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文/Zero and Few-Shot Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人脸抗仿冒/人脸抗仿冒相关论文/使用辅助信息监督的人脸抗仿冒深度网络模型.md"
+                "file": "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文/Zero and Few-Shot Learning.md"
               }
             }
           },
@@ -146,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,28 +166,40 @@
   },
   "active": "c7267e0b7ac4546a",
   "lastOpenFiles": [
-    "Pasted image 20231029214322.png",
-    "人脸抗仿冒/人脸抗仿冒相关论文/基于辅助特征的人脸抗仿冒方案的研究与实现.md",
-    "人脸抗仿冒/人脸抗仿冒相关论文/使用辅助信息监督的人脸抗仿冒深度网络模型.md",
-    "Pasted image 20231029213213.png",
-    "Pasted image 20231029200700.png",
-    "Pasted image 20231029163921.png",
-    "人脸抗仿冒/人脸抗仿冒相关论文/残差网络论文.md",
-    "人脸抗仿冒/人脸抗仿冒相关论文/CycleGAN论文.md",
-    "人脸抗仿冒/人脸抗仿冒相关论文/CycleGAN介绍.md",
-    "人脸抗仿冒/人脸抗仿冒相关论文/人脸攻击类型.md",
-    "Deep_Residual_Learning_for_Image_Recognition.pdf",
-    "人脸抗仿冒/人脸抗仿冒相关论文/3DMMFA.md",
-    "Pytorch/DataSet&DataLoader.md",
+    "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文/1 FAS文献综述.md",
+    "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文/Zero and Few-Shot Learning.md",
+    "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文/GrandTest and Open-Set Protocol.md",
+    "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文/Face Spoof Detection With Image Distortion Analysis.md",
+    "Pasted image 20231112152804.png",
+    "人脸抗仿冒/人脸抗仿冒相关论文/3DMM 人脸三维重建模型.md",
+    "Pasted image 20231112004833.png",
+    "Pasted image 20231110103200.png",
+    "人脸抗仿冒/未命名.md",
     "人脸抗仿冒/RNN/序列模型.md",
+    "Pasted image 20231110102132.png",
+    "Pasted image 20231110102121.png",
+    "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文",
+    "人脸抗仿冒/人脸抗仿冒相关论文/残差网络论文.md",
+    "人脸抗仿冒/人脸抗仿冒相关论文/基于辅助特征的人脸抗仿冒方案的研究与实现.md",
+    "人脸抗仿冒/人脸抗仿冒相关论文/人脸攻击类型.md",
+    "人脸抗仿冒/人脸抗仿冒相关论文/CycleGAN介绍.md",
+    "人脸抗仿冒/人脸抗仿冒相关论文/CycleGAN论文.md",
+    "人脸抗仿冒/人脸抗仿冒相关论文/Dense Face Alignment 密集人脸对齐.md",
+    "人脸抗仿冒/Photos/Pasted image 20231021100612.png",
+    "人脸抗仿冒/Photos/Pasted image 20231020225349.png",
+    "Deep_Residual_Learning_for_Image_Recognition.pdf",
+    "Pytorch/DataSet&DataLoader.md",
+    "人脸抗仿冒/人脸抗仿冒相关论文/3DMMFA.md",
+    "人脸抗仿冒/人脸抗仿冒相关论文/使用辅助信息监督的人脸抗仿冒深度网络模型.md",
+    "Pasted image 20231030233434.png",
+    "Pasted image 20231030140702.png",
+    "Pasted image 20231030113537.png",
     "人脸抗仿冒/人脸抗仿冒相关论文/基于辅助特征的.md",
     "人脸抗仿冒/RNN",
     "Pytorch",
     "人脸抗仿冒/人脸抗仿冒相关论文/未命名 1.md",
     "README.md",
-    "人脸抗仿冒/Photos/Pasted image 20231021100612.png",
     "人脸抗仿冒/Photos",
-    "人脸抗仿冒/Photos/Pasted image 20231020225349.png",
     "人脸抗仿冒/人脸抗仿冒相关论文",
     "人脸抗仿冒",
     "子课题1：示例子课题/示例实验.md",
