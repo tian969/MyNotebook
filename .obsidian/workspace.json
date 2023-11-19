@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文/Zero and Few-Shot Learning.md",
+                "file": "人脸抗仿冒/人脸抗仿冒相关论文/Attention is all you need.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 299.5
   },
   "right": {
     "id": "48a05b73ecca0b7f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文/Zero and Few-Shot Learning.md",
+                "file": "人脸抗仿冒/人脸抗仿冒相关论文/Attention is all you need.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文/Zero and Few-Shot Learning.md",
+                "file": "人脸抗仿冒/人脸抗仿冒相关论文/Attention is all you need.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文/Zero and Few-Shot Learning.md"
+                "file": "人脸抗仿冒/人脸抗仿冒相关论文/Attention is all you need.md"
               }
             }
           },
@@ -166,9 +166,11 @@
   },
   "active": "c7267e0b7ac4546a",
   "lastOpenFiles": [
-    "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文/1 FAS文献综述.md",
     "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文/Zero and Few-Shot Learning.md",
+    "人脸抗仿冒/人脸抗仿冒相关论文/Attention is all you need.md",
     "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文/GrandTest and Open-Set Protocol.md",
+    "Pasted image 20231115114926.png",
+    "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文/1 FAS文献综述.md",
     "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文/Face Spoof Detection With Image Distortion Analysis.md",
     "Pasted image 20231112152804.png",
     "人脸抗仿冒/人脸抗仿冒相关论文/3DMM 人脸三维重建模型.md",
@@ -193,7 +195,6 @@
     "人脸抗仿冒/人脸抗仿冒相关论文/使用辅助信息监督的人脸抗仿冒深度网络模型.md",
     "Pasted image 20231030233434.png",
     "Pasted image 20231030140702.png",
-    "Pasted image 20231030113537.png",
     "人脸抗仿冒/人脸抗仿冒相关论文/基于辅助特征的.md",
     "人脸抗仿冒/RNN",
     "Pytorch",
