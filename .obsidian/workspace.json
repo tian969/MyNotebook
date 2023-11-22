@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人脸抗仿冒/人脸抗仿冒相关论文/Attention is all you need.md",
+                "file": "人脸抗仿冒/BERT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人脸抗仿冒/人脸抗仿冒相关论文/Attention is all you need.md",
+                "file": "人脸抗仿冒/BERT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人脸抗仿冒/人脸抗仿冒相关论文/Attention is all you need.md",
+                "file": "人脸抗仿冒/BERT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人脸抗仿冒/人脸抗仿冒相关论文/Attention is all you need.md"
+                "file": "人脸抗仿冒/BERT.md"
               }
             }
           },
@@ -166,9 +166,11 @@
   },
   "active": "c7267e0b7ac4546a",
   "lastOpenFiles": [
+    "人脸抗仿冒/人脸抗仿冒相关论文/Attention is all you need.md",
+    "人脸抗仿冒/BERT.md",
+    "Pasted image 20231120112814.png",
     "Pasted image 20231120103451.png",
     "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文/Zero and Few-Shot Learning.md",
-    "人脸抗仿冒/人脸抗仿冒相关论文/Attention is all you need.md",
     "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文/GrandTest and Open-Set Protocol.md",
     "Pasted image 20231115114926.png",
     "人脸抗仿冒/人脸抗仿冒相关论文/SFFAI141 人脸防伪专题推荐论文/1 FAS文献综述.md",
@@ -194,8 +196,6 @@
     "Pytorch/DataSet&DataLoader.md",
     "人脸抗仿冒/人脸抗仿冒相关论文/3DMMFA.md",
     "人脸抗仿冒/人脸抗仿冒相关论文/使用辅助信息监督的人脸抗仿冒深度网络模型.md",
-    "Pasted image 20231030233434.png",
-    "Pasted image 20231030140702.png",
     "人脸抗仿冒/人脸抗仿冒相关论文/基于辅助特征的.md",
     "人脸抗仿冒/RNN",
     "Pytorch",
